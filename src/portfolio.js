@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'https://jsuarez0929.github.io/jsuar-portfolio',
   title: 'JS.',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Josh',
   role: 'DevOps Engineer',
   description:
@@ -45,12 +43,12 @@ const projects = [
     livePreview: 'https://github.com/jsuarez0929/k8_utils',
   },
   {
-    name: 'Grafana custom dashboards',
+    name: 'AWS Automation Scripts',
     description:
-      'Collection of custom grafana dashboards to quickly implement monitoring solutions for AWS services such as API Gateway & AWS ALBs',
+      'Collection of bash scripts to automate backup and DR procedures for services in AWS',
     stack: ['bash'],
-    sourceCode: 'https://github.com/jsuarez0929/k8_utils',
-    livePreview: 'https://github.com/jsuarez0929/k8_utils',
+    sourceCode: 'https://github.com/jsuarez0929/aws-automation-scripts',
+    livePreview: 'https://github.com/jsuarez0929/aws-automation-scripts',
   }
 ]
 

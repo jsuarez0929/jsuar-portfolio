@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jsuar-portfolio/static/css/main.d3c7d021.chunk.css",
-    "main.js": "/jsuar-portfolio/static/js/main.bcfe2639.chunk.js",
-    "main.js.map": "/jsuar-portfolio/static/js/main.bcfe2639.chunk.js.map",
+    "main.js": "/jsuar-portfolio/static/js/main.98fae3fa.chunk.js",
+    "main.js.map": "/jsuar-portfolio/static/js/main.98fae3fa.chunk.js.map",
     "runtime-main.js": "/jsuar-portfolio/static/js/runtime-main.985e5d97.js",
     "runtime-main.js.map": "/jsuar-portfolio/static/js/runtime-main.985e5d97.js.map",
     "static/js/2.811d3cd7.chunk.js": "/jsuar-portfolio/static/js/2.811d3cd7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.985e5d97.js",
     "static/js/2.811d3cd7.chunk.js",
     "static/css/main.d3c7d021.chunk.css",
-    "static/js/main.bcfe2639.chunk.js"
+    "static/js/main.98fae3fa.chunk.js"
   ]
 }
